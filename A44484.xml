@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at St. Martins in the Fields to the natives of that parish upon the 29th of May, 1676 being the anniversary of His Majesties birth and happy return to his kingdoms : as also the day appointed for their yearly meeting and feasting together / by John Horden.</title>
+            <author>Horden, John, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44484</idno>
+            <idno type="STC">Wing H2788</idno>
+            <idno type="STC">ESTC R28693</idno>
+            <idno type="EEBO-CITATION">10741245</idno>
+            <idno type="OCLC">ocm 10741245</idno>
+            <idno type="VID">45602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45602)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1404:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at St. Martins in the Fields to the natives of that parish upon the 29th of May, 1676 being the anniversary of His Majesties birth and happy return to his kingdoms : as also the day appointed for their yearly meeting and feasting together / by John Horden.</title>
+                  <author>Horden, John, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Brome,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 2nd, XIX, 14-15 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45602:1"/>
+            <p>
+               <pb facs="tcp:45602:1" rendition="simple:additions"/>A SERMON Preached at St. Martins in the Fields, To the NATIVES of that Pariſh: Upon the 29<hi rend="sup">th.</hi> of <hi>May,</hi> 1676.</p>
+            <p>BEING THE ANNIVERSARY OF His Majeſties Birth and happy Return to His Kingdoms.</p>
+            <p>AS ALSO The Day appointed for their Yearly Meeting and Feaſting together.</p>
+            <p>By <hi>JOHN HORDEN,</hi> Rector of St. <hi>Michael Queen-hithe, London.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Henry Brome,</hi> at the Gun in St. <hi>Paul</hi>'s Church-Yard, 1676.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:45602:2"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>G. Jane, <hi>R. P. D.</hi> Hen. <hi>Epiſc.</hi> Lond. <hi>à ſacris domeſticis.</hi>
+               </signed>
+               <dateline>
+                  <date>Jun. 6. 1676.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45602:2"/>
+            <head>TO
+<list>
+                  <item>
+                     <hi>Mr.</hi> John Clayton,</item>
+                  <item>
+                     <hi>Mr.</hi> Charles Palmer,</item>
+                  <item>
+                     <hi>Mr.</hi> Charles Titford,</item>
+                  <item>
+                     <hi>Mr.</hi> John Heames,</item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Nicholas,</item>
+                  <item>
+                     <hi>Mr.</hi> John Steel,</item>
+               </list>
+Stewards for the Day.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HAT it was that ſhould make you ſo earneſt for the Printing of a Diſ<g ref="char:EOLhyphen"/>courſe, which was only deſigned for that parti<g ref="char:EOLhyphen"/>cular Audience unto which it was preached, I cannot poſſibly imagine, un<g ref="char:EOLhyphen"/>leſs it were thereby to make your Meeting more publickly known, in hopes that your good Example might prevail upon others, and ſtir up a for<g ref="char:EOLhyphen"/>getful People, to celebrate the Day with that Solemnity which is due unto it: If ſo, I muſt confeſs your Deſign
+<pb facs="tcp:45602:3"/>
+is neceſſary and good; and I am content thus at the expence of my own Repu<g ref="char:EOLhyphen"/>tation to become ſerviceable unto it: though I could wiſh you had made choice of ſome better Pen for that pur<g ref="char:EOLhyphen"/>poſe, and laid your commands on ſuch a perſon, as was able to have ſpread abroad your Fame, without the immi<g ref="char:EOLhyphen"/>nution of his own. However you ſee I have obeyed and (which is all I do pre<g ref="char:EOLhyphen"/>tend to) ſhew'd in that, how much you have at your command,</p>
+            <closer>
+               <salute>Gentlemen,</salute>
+               <signed>Your moſt affectionate Countryman, and very faithful Servant, <hi>John Horden.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="doctrine">
+            <pb n="1" facs="tcp:45602:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>II. SAM. xix. 14, 15.</hi>
+                  </bibl>
+                  <p>And he bowed the heart of all the men of Judah, even as the heart of one man, ſo that they ſent this word unto the King, Return thou and all thy ſervants.</p>
+                  <p>So the King returned and came to Jor<g ref="char:EOLhyphen"/>dan, and Judah came to Gilgal, to go to meet the King, to conduct the King over Jordan.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HAT on thoſe days, which as the Pſalmiſt ſpeaks, <hi>Pſal.</hi> cxviii. 24. <hi>the Lord hath made, we may rejoyce and be glad;</hi> that at ſuch times, as God hath made more eſpecially remarkable, by the then vouchſafement of great and ſignal favours, we ought to manifeſt our joyous acceptance, to evidence our grate<g ref="char:EOLhyphen"/>ful reſentments of them, by the moſt full and demonſtrative expreſſions; there are none I
+<pb n="2" facs="tcp:45602:4"/>
+think, who will deny, but ſuch as are profeſſed enemies to Gratitude, avowedly againſt all re<g ref="char:EOLhyphen"/>turns unto the mercies of their God, and do, for being ſo, deſerve to have their choice be<g ref="char:EOLhyphen"/>come their puniſhment; as they delighted not in joy, ſo to have it far from them; as they have ſullenly choſen a ſinful and unſeaſonable melancholy here, ſo to have their future por<g ref="char:EOLhyphen"/>tion, where there is weeping and wailing for evermore. If then the preſent day be ſuch, if it appear that the Lord hath been pleaſed to ſignalize it, by Kindneſſes of ſuch note, Mer<g ref="char:EOLhyphen"/>cies of ſuch a rank and quality, as the revolu<g ref="char:EOLhyphen"/>tion of many years hath ſeldom been crown<g ref="char:EOLhyphen"/>ed with, the ſolemnity of this preſent Meet<g ref="char:EOLhyphen"/>ing is ſufficiently juſtified, and Reaſon will warrant ſo righteous an indulgence of our Joy. And though to entitle any day unto ſo great an honour, as is that, of being the day which the Lord hath more particularly made, it be enough, that on it, we have received any ſingle inſtance of his extraordinary Goodneſs; yet here to aſcertain the claim of this, beyond the queſtioning of the moſt ſcrupulous and doubtful, for greater ſureneſs the thing is doubled, and a ſucceſſion of Mercies hath con<g ref="char:EOLhyphen"/>firm'd this Glory to the Day.</p>
+            <p>
+               <pb n="3" facs="tcp:45602:4"/>For firſt, It is the <hi>Birth-day</hi> of our King, a Name which methinks it ſelf affects, and can<g ref="char:EOLhyphen"/>not be mentioned without emotion; The morn which did firſt give light to him, who is the breath of our noſtrils, and the light of our eyes; the day which brought forth an uni<g ref="char:EOLhyphen"/>verſal bleſſing to the Land, but did confer particular honours on this place, ſuch as ſhould reach unto its after off-ſpring, ſuch as doth give to us the Natives of this Pariſh, ſuch a more eſpecial relation to our King, as doth I'm ſure ennoble us, and will I hope for ever endear him, make him precious as our eyes, and more deſirable than life unto us. And cer<g ref="char:EOLhyphen"/>tainly, if we think fit to obſerve the time of our own Nativities, and gladly keep the day, on which we wept out the firſt beginnings of life, as an omen of thoſe future miſeries unto which then we were born; with much greater reaſon we ought to celebrate the Birth-day of our King; to the prudence of whoſe Govern<g ref="char:EOLhyphen"/>ment, under God, we owe the correction of our evil fate; to whoſe care we are indebted, that under it we may live peaceable and quiet lives; to whoſe Authority it muſt thankfully be referr'd, that we are reſtrained from that violence and evil, whereby we are naturally
+<pb n="4" facs="tcp:45602:5"/>
+prone to ruinate our own and our Neigh<g ref="char:EOLhyphen"/>bours felicity, to make our ſelves and others miſerable. And upon this very account have all good Subjects in all ages, ſolemnized the Birth-day of their King, with far greater Re<g ref="char:EOLhyphen"/>ligion than they have done their own, thought themſelves more obliged then to enlarge their Praiſes and Thankſgivings unto God. Nor was it ever otherwiſe, till over this latter Age Im<g ref="char:EOLhyphen"/>piety and Rebellion together did prevail; when men began to lay aſide all Reſpect, both to the Lord and his Anointed, and thought it equally ſuperſtition to celebrate the Nativity of their Saviour, and Birth of their King.</p>
+            <p>But ſecondly, As it is the day of his Birth, ſo is it alſo the day of his <hi>Reſtauration;</hi> the day whereon he was Reſtor'd, a ſecond time to breath that Native Air, unto which he had been ſo long a ſtranger, and bleſs our eyes, which too long had wanted their dear delight. And here we cannot make enquiry into this other happineſs of the day, without bringing our faults to mind; we cannot reflect upon our preſent joy, without calling alſo to our remembrance a foregoing ſorrow; the dark<g ref="char:EOLhyphen"/>neſs of that long and gloomy night, which clouded the former Glories of this Day, and
+<pb n="5" facs="tcp:45602:5"/>
+rob'd us of all the Joy that his Nativity had gi<g ref="char:EOLhyphen"/>ven us. He was indeed born with us, but like the greater prodigies of goodneſs, which the Heavens for a ſhew, do only drop on Earth, and ſoon again reſume unto themſelves, he quickly diſappear'd; ſo much ſtill the more for our guilt and ſhame, that the hand which gave him took him not away, that the Heavens which ſhew'd him to us, did not him withdraw; but when God who gave it, was willing ſtill to have continued the favour to us, we wilfully forſook our own mercies, would be wicked that we might be unhappy, and did what we could to evacuate the bleſſing of his Birth. That Royal Oak which with us Gods own right hand had planted, we forcibly tranſplanted into a ſtrange Land, ſuffered it there to grow up in an unna<g ref="char:EOLhyphen"/>tural Soil, and might for ever have wanted the defence and comforts of its ſhade; but that it pleaſed Almighty God, this day again to re<g ref="char:EOLhyphen"/>plant it in its proper place, where we hope through his bleſſing it hath taken ſuch root, that no ſtorms nor tempeſts ſhall ever again be able to unfix it; but underneath its branches for many many years we may yet ſit and ſing, how much ſoever the ſons of diſcord are offended at the harmony.</p>
+            <p>
+               <pb n="6" facs="tcp:45602:6"/>And theſe indeed are the great and eſſential happineſſes of this day, that have imprinted Gods eſpecial character upon it, that juſtly do denominate it the day which the Lord hath made, and conſequently the day on which we may rejoyce: To which, it is not, nor let it ſeem to any ſo ſmall and inconſiderable a mer<g ref="char:EOLhyphen"/>cy, as to be thought unworthy to be added, that this day doth annually renew this ſolemn and great convention of perſons ſo cordial and unanimous, who marching all under the ſame colours, ſhew that they are brethren who dwell together in unity, who are of one mind, and have the ſame deſigns; and making choice of theſe, do farther evidence that their deſigns are good, that they do meet, and will meet, in ho<g ref="char:EOLhyphen"/>nour of him, whoſe are the Colours which they were; and that as chearfully as now they do ſit down to eat and drink, ſo when his Service ſhall require, they will as heartily riſe up to play: I do not mean as did the bruitiſh Iſrae<g ref="char:EOLhyphen"/>lites, <hi>Exod.</hi> vi. 32. but, as the young men did at the requeſt of <hi>Abner</hi> unto <hi>Joab,</hi> 2 <hi>Sam.</hi> ii. 14. even to catch them by the heads, and thruſt their Swords into the ſides of all, that dare re<g ref="char:EOLhyphen"/>belliouſly lift up their hands againſt our Lord the King. Only to ſee the firſt of theſe muſt
+<pb n="7" facs="tcp:45602:6"/>
+unto every eye be good and pleaſant, as was <hi>Aaron</hi>'s oyntment, or the dew of <hi>Hermon-hill:</hi> but to underſtand the latter, cannot but infi<g ref="char:EOLhyphen"/>nitely rejoyce every good and loyal heart. Nor is this bleſſing of the Day leſs glorious in its Au<g ref="char:EOLhyphen"/>thor or effects; it being the Lord who maketh men to be of one mind, who cauſeth us to be at peace and unity among our ſelves, by making up our breaches, and healing our diviſions, by compoſing our differences, and quieting our ſtrifes; works great as it is to ſtill the raging of the Sea, and turn the ſtorm into a calm: And as it is excellent in its author, ſo is it lovely in its effects, it being to this love and friendſhip, this concord and unanimity, of which this pre<g ref="char:EOLhyphen"/>ſent meeting is an happy inſtrument and re<g ref="char:EOLhyphen"/>preſentation, that we owe very great and ma<g ref="char:EOLhyphen"/>ny advantages; but to make us ſet that due value and price upon it which we ought, I ſhall need to inſtance only in that one, which de<g ref="char:EOLhyphen"/>ſervedly hath the greateſt ſhare in the gladneſs and ſolemnity of this day, which the Text that I have now read unto you reckons up, as the immediate conſequent of <hi>Judah</hi>'s unity and a<g ref="char:EOLhyphen"/>greement; and that is the recalling and reſtau<g ref="char:EOLhyphen"/>ration of their King, an effect ſo happy and deſirable, that there needs no other to recom<g ref="char:EOLhyphen"/>mend
+<pb n="8" facs="tcp:45602:7"/>
+it to our love, and engage us in its pre<g ref="char:EOLhyphen"/>ſervation. <hi>And he bowed the heart of all the men of Judah, even as the heart of one man; ſo that they ſent this word unto the King, Return thou and all thy ſervants. So the King returned and came to Jordan, and Judah came to Gilgal, to go to meet the King to conduct the King over Jordan.</hi> In which words you may be pleaſed to take notice of theſe four things conſiderable.</p>
+            <p>Firſt, The then ſtate and condition of the men of <hi>Judah: And he bowed the heart of the men of Judah, even as the heart of one man.</hi>
+            </p>
+            <p>Secondly, What they did in this condition; <hi>They ſent this word unto the King, Return thou and all thy ſervants.</hi>
+            </p>
+            <p>Thirdly, We have the Kings condeſcenſion to their embaſſy and requeſt; <hi>The King returned and came to Jordan.</hi>
+            </p>
+            <p>And fourthly, We have thoſe returns of gra<g ref="char:EOLhyphen"/>titude and reſpect, which <hi>Judah</hi> made unto this kind condeſcenſion of their King: <hi>Judah came to Gilgal, to go to meet the King, and to conduct the King over Jordan.</hi>
+            </p>
+            <p>I begin with the firſt, in which we have again more particularly obſervable, the ſtate it ſelf, the perſons in it, and the perſon who brought them to it.</p>
+            <p>
+               <pb n="9" facs="tcp:45602:7"/>Firſt, The ſtate it ſelf, a ſtate of amity and friendſhip, unity and agreement; all the hearts of the men of <hi>Judah</hi> ſtood bent the ſame way, they had all the ſame inclinations and deſires, not any the leaſt appearance of any variance or repugnancy, but they all together moved the ſame way; the thoughts of their hearts, as we may gueſs by the agreement of the tongues that ſpake from them, were in all the ſame, and there was in every one a like and equal readineſs to put them in execution: ſo that thoſe many bodies ſeemed, as they ought to be, but ſo many members of the ſame body, which one ſoul did animate, and influence with eaſe. So we find the phraſe often uſed in Holy Writ with the import of an extraordinary agree<g ref="char:EOLhyphen"/>ment and unanimous conſent. Thus when the people ſo univerſally conſpir'd to avenge the indignity offered by the men of <hi>Gibeah</hi> to the Levites concubine; it is ſaid, that <hi>all the people aroſe as one man, Judges</hi> viii. 20. And again, when they ſo unanimouſly made their addreſs to <hi>Ezra,</hi> that he would bring forth, and read the Book of the Law, that all the people ga<g ref="char:EOLhyphen"/>thered themſelves together as one man. This is that which the policy of Heathens did re<g ref="char:EOLhyphen"/>commend, and the Religion of Chriſtians hath
+<pb n="10" facs="tcp:45602:8"/>
+ſince more powerfully enjoyned. So St. <hi>Paul</hi> in 1 <hi>Cor.</hi> i. 10. <hi>Now I beſeech you brethren, by the name of our Lord Jeſus Chriſt, that ye all ſpeak the ſame thing, and that there be no diviſion among you, but that ye be perfectly joyned together in the ſame mind and the ſame judgment.</hi> Nay the Devil himſelf, who by di<g ref="char:EOLhyphen"/>viding, chiefly doth maintain his Empire upon earth, preſerveth and ſupports his Kingdom by unity at home; whilſt Devil with Devil is in league, and all are ready as one <hi>Belzebub</hi> their Prince, to go about <hi>ſeeking whom they may devour.</hi> I could heartily wiſh that a greater plenty of Chriſtian patterns did wholly ſuperſede the neceſſity of propoſing Hell as an example unto imitation: but alas, ſo is every Church rent by Schiſm, ſo is every State torn by Diviſion, that I know not where on earth to find a parallel union. The Text indeed gives us the inſtance of a tribe ſo cloſely cemented and joyned to<g ref="char:EOLhyphen"/>gether, that all the men of it are but as one; and here within theſe walls, I ſee a ſmaller bo<g ref="char:EOLhyphen"/>dy, but I hope united by the firmeſt ties of true affection. O may it ſtill grow on, every year ſtill add unto our numbers, and increaſe our love, till Neighbours grow enamour'd of the fair Example: every Pariſh wiſh that ſhe had ſons agreeing and affectionate as you,
+<pb n="11" facs="tcp:45602:8"/>
+and the whole Nation ſtudy to become ſo.</p>
+            <p>So much for the firſt particular, the ſtate or condition; they who were in it, were the men of <hi>Judah,</hi> a Tribe of which, though there are many things I might remark, yet I ſhall at preſent take notice of nothing more, than that in which this Auditory may ſeem concern'd; and that is this, that it was <hi>David</hi>'s Tribe, that the King was born among them, and with them did keep his Court and habitation; by which they themſelves did think, and the King himſelf doth allow, that they had contracted ſomewhat a nearer relation to him: for though the men of <hi>Iſrael,</hi> jealous of his kindneſs, and envious of their honour, in the heat of their expoſtula<g ref="char:EOLhyphen"/>tion, at the laſt verſe of this Chapter, do tell them, that they the men of <hi>Iſrael</hi> had ten parts in the King, and alſo had more right in <hi>David;</hi> yet we find he himſelf is of another opinion, acknowledgeth at <hi>ver.</hi> 12. of this Chapter, that they are his brethren, his bones, and his fleſh; very indearing expreſſions, and ſuch as could not but very effectually gain and win upon them: which though they ſeem to import a much nearer affinity than that which I have mentioned, yet ought they only to be under<g ref="char:EOLhyphen"/>ſtood of that remoter relation; for other<g ref="char:EOLhyphen"/>wiſe
+<pb n="12" facs="tcp:45602:9"/>
+the meaneſt of the tribe might have claimed kindred with the King; and the baſeſt among them have reckoned himſelf of the Royal Blood, which would have been a great diſhonour to the King, and too criminal a pre<g ref="char:EOLhyphen"/>ſumption in them: And therefore what the men of <hi>Judah</hi> do alledge in excuſe unto the men of <hi>Iſrael,</hi> at the 42. verſe of this Chapter, that the King was near of kin unto them, <hi>Va<g ref="char:EOLhyphen"/>tablus,</hi> and I think rightly, makes to be ſpo<g ref="char:EOLhyphen"/>ken upon no other grounds than this, that <hi>Da<g ref="char:EOLhyphen"/>vid</hi> did keep his Court amongſt them, <hi>Hoc di<g ref="char:EOLhyphen"/>cunt quod David habitaret in tribu Judah.</hi> And ſo indeed the word in the Original <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> doth more properly ſignifie the nearneſs of vicinity than that of kin: And upon this account it was that <hi>David</hi> did juſtly expect more from them, and themſelves did rightly think that there lay greater obligations upon them unto Loyalty, and that they ought to be, as anon we ſhall find they were, more concerned for the ſervice and reſtitution of their King.</p>
+            <p>But then thirdly, we muſt not without ta<g ref="char:EOLhyphen"/>king ſome notice of him, here paſs by the hap<g ref="char:EOLhyphen"/>py inſtrument of this accord in <hi>Judah;</hi> well may he deſerve ſome remembrance, who did ſo ſeaſonably unite, and in that ſet them for<g ref="char:EOLhyphen"/>ward
+<pb n="13" facs="tcp:45602:9"/>
+to an enterprize, that ſhall for ever be recorded to their immortal honour: But here we are ſomewhat at a loſs, the Text having made no farther diſcovery than by an indefi<g ref="char:EOLhyphen"/>nite Pronoun, which is of dubious reference. <hi>And he bowed the heart;</hi> which whether it were <hi>Amaſa</hi> in the verſe before, or one of the Prieſts upon whom <hi>David</hi> had impos'd the perſwaſion of <hi>Amaſa</hi> and <hi>Judah</hi> both; or whether it be meant of the King himſelf, that by the ſhort and kindly admonition he had ſuddenly and univerſally prevailed upon them, it is not ſo ea<g ref="char:EOLhyphen"/>ſie to determine. 'Tis true, the meſſage alone which <hi>David</hi> ſent, though ſhort, yet was very apt to affect, and recal that ſenſe of duty which they ſeemed to have loſt, <hi>Ye are my brethren, my bones, and my fleſh; wherefore then are ye the laſt to bring back the King?</hi> To encourage <hi>Amaſa</hi> to enlarge upon it, and ſtir him up effectually to preſs it home; a promiſe great enough was particularly made to him; <hi>God do ſo to me, and more alſo, if thou be not captain of the hoſt before me continually in the room of Joab:</hi> and it is no way likely, that he would not endeavour what he was courted to by ſo great and fair a recom<g ref="char:EOLhyphen"/>pence. The Prieſt indeed only had received his Kings command, and that was (no doubt)
+<pb n="14" facs="tcp:45602:10"/>
+enough for him who knew full well his Duty, and never had declin'd its practice; though here in the work it ſelf, there was ſufficient in<g ref="char:EOLhyphen"/>vitation, to compoſe and to unite, to promote concord and agreement, to make all Gods peo<g ref="char:EOLhyphen"/>ple, as they are thereunto called in one body, ſo to be of one heart, and of one mind, it is our proper office; in doing which, I heartily wiſh that then only we may proſper, when we con<g ref="char:EOLhyphen"/>federate for God, and bow his peoples heart for his Vice-gerents honour. Where therefore thus we may miſtake, it is not prudence too pe<g ref="char:EOLhyphen"/>remptorily to decide; but whoever he did the honour to make his inſtrument, we know who was the author and chief cauſe of the union, even the Lord in whoſe hand are the hearts of all men, and he turneth them as the rivers of water, making them now together to run in one channel, that had a different current, and were before divided ſtreams. To him therefore let be the honour, and unto him let us aſcribe the glory of the thing, who worketh ſecretly, but miraculouſly for his King, <hi>and did bow the heart of all the men of Judah as the heart of one man.</hi> And ſo much for the firſt general: I proceed unto the ſecond, the conſequent of their hearts being
+<pb n="15" facs="tcp:45602:10"/>
+thus bowed. <hi>They ſent this word unto the King, Return thou and all thy ſervants.</hi>
+            </p>
+            <p>Whilſt there were as many minds as men, and every one had his particular aim and am<g ref="char:EOLhyphen"/>bition, which apart he carried on, by ſuch means as ſeemed right in his own eyes, it is no wonder if there be no King in <hi>Iſrael,</hi> or an U<g ref="char:EOLhyphen"/>ſurper only be permitted to ſit upon the Throne, who by toleration and compliance, unworthy and mean conceſſions, muſt be as unlike as poſſible unto a King, wear the Title indeed, but decline the Majeſty and Power, pretending himſelf a ſervant unto every inte<g ref="char:EOLhyphen"/>reſt, that each ſeveral ſubject would apart ad<g ref="char:EOLhyphen"/>vance: But, <hi>Mente omnibus unâ incolumis Rex.</hi> When they come to be of one mind, the King is ſecure, and his Throne muſt be eſta<g ref="char:EOLhyphen"/>bliſhed. The very firſt expreſſions of their uni<g ref="char:EOLhyphen"/>ty are theſe, that the King would return, he and all his ſervants. I ſhall not need to make any long repetition of ſtories that are ſo well known, to relate the means whereby the un<g ref="char:EOLhyphen"/>grateful <hi>Abſalom</hi> carried on his unnatural and accurſt rebellion, to repreſent unto you <hi>David</hi> fleeing, with that ſmall handful of thoſe, who did prefer their duty to advantage, and durſt be loyal, when it was dangerous to be ſo. And
+<pb n="16" facs="tcp:45602:11"/>
+though to recount the ſorrows of his flight, and the neceſſities of his exile, would not be ſo me<g ref="char:EOLhyphen"/>lancholick a performance, as at firſt ſight it ſeems; the greateſt dangers making this a<g ref="char:EOLhyphen"/>mends for the diſpleaſures they have cauſed, that they are ſweet in the after remembrances, and when gone off, do leave delight behind them, equal to the terrors which coming on they brought; yet I ſhall forbear: for in the meſſage of return it ſelf, there was enough of pleaſure, and it needs no inhancement, from the memory of his paſſed flight. Their deſires of his, did plainly ſpeak their own return to Duty; and that they were not forgetful of his faithful ſervants, but did deſire their return al<g ref="char:EOLhyphen"/>ſo, the ſame whom not improbably before, when a pretext was wanting for Rebellion, they would have had as evil Counſellors re<g ref="char:EOLhyphen"/>mov'd, this did declare a through repentance of their crime, was a confeſſion of that virtue, which they had diſgrac'd, ſhew'd that now they did approve it, and gave good hopes of their fu<g ref="char:EOLhyphen"/>ture imitation: To make acknowledgment of, and be ſorry for, is the only amends that we can make for ſuch commiſſions, whereby we treſ<g ref="char:EOLhyphen"/>paſs againſt God; nor is it often in our power to make other reparations for our offences
+<pb n="17" facs="tcp:45602:11"/>
+againſt his Repreſentative, who is in this moſt truly like him, that he is merciful as he is mer<g ref="char:EOLhyphen"/>ciful, forgets our crimes upon the day, that we remember them, and immediately grants our requeſts, without any exprobration of thoſe faults, which have rendred us unworthy for to make them. <hi>David</hi> had no ſooner received <hi>Ju<g ref="char:EOLhyphen"/>dah</hi>'s petition, but he condeſcends unto it; he preſently returns, but he comes no farther than to <hi>Jordan:</hi>
+            </p>
+            <p>Where poſſibly he might expect the like ef<g ref="char:EOLhyphen"/>fects of the other Tribes repentance, and think that they alſo now they had loſt all hopes of its advantage, would grow aſham'd of their ſin, and now that <hi>Abſalom</hi> (whom as the peo<g ref="char:EOLhyphen"/>ple rightly ſpeak, they, not God, had anoin<g ref="char:EOLhyphen"/>ted over them) was dead in battel, they would again return unto the Lords anointed, and make that a more publick addreſs, which they had already privately diſcours'd of; that the King who ſaved them out of the hand of their enemies, and did deliver them out of the hand of the Philiſtines, might be brought back from that flight, which the ſon whom he ſo loved, and the people whom he had thus delivered, had ſo undutifully put him to. But <hi>Judah</hi> whom every day did ſtill make more and more ſen<g ref="char:EOLhyphen"/>ſible
+<pb n="18" facs="tcp:45602:12"/>
+of thoſe eſpecial obligations which lay upon themſelves, whom every hour did more and more affect with the brisker thoughts of a King who was born, had been bred up and lived amongſt them, they prevent the tardy conſultation of their fellow Tribes, with as unanimous a conſent, as before they did ſend, they now did come to <hi>Gilgal, to go to meet the King, and to conduct the King over Jor<g ref="char:EOLhyphen"/>dan.</hi>
+            </p>
+            <p>In the firſt of which they had a reſpect to his honour, and in the latter they had a regard to his ſafety; So we find it antiently was, and ſtill it doth continue a teſtimony of reſpect to go out and meet ſuch perſons, for whom we do deſire to make as honourable a reception as we can: Thus the King of <hi>Sodom</hi> went out to meet victorious <hi>Abram,</hi> as he returned in Triumph from the ſlaughter of <hi>Chedorlao<g ref="char:EOLhyphen"/>mer,</hi> and the redemption of his own ſubjects, <hi>Gen.</hi> xiv. 17. So <hi>Joſeph</hi> went up to <hi>Goſhen</hi> to meet his Father <hi>Iſrael, Gen.</hi> xlvi. 29. And for the ſame reaſon <hi>Judah</hi> in my Text went out to meet their King, and not to meet him only, but to conduct him alſo, to be a wall unto him on the right hand and on the left, that no Traitorous hand might privily approach to
+<pb n="19" facs="tcp:45602:12"/>
+hurt him, nor any ſons of violence dare open<g ref="char:EOLhyphen"/>ly to ſtop his way. Thus ſhould our paſt omiſ<g ref="char:EOLhyphen"/>ſions make us more vigorous and careful in all our after-performances of duty, and may the ſenſe of former failures ſtill put us upon freſh endeavours, of making up what heretofore we have been wanting in, by more eminent and extraordinary acts of piety to God, and loyalty unto our King.</p>
+            <p>And thus I have with all imaginable brevity gone through the ſeveral parts of the Text, the parallel unto which (in thoſe things which have been tranſacted among our ſelves, and may ſo exactly, and ſo eaſily be run) is that for which we have met this day to rejoyce in eve<g ref="char:EOLhyphen"/>ry way of laudable and holy gladneſs; in ſing<g ref="char:EOLhyphen"/>ing praiſes firſt to God, and chearing then our ſelves. It is not ſo long ſince our <hi>David</hi> too was forced for to fly, with a far leſs attendance than the King of <hi>Iſrael,</hi> ſince he went away not with many ſervants, but himſelf as one was glad for to eſcape, ſince the beſt advice which his moſt faithful counſellors could give, was that which <hi>Huſhai</hi> ſent to <hi>David,</hi> 2 <hi>Sam.</hi> xvii. 16. to ariſe and paſs quickly o're the water, leſt the wicked ſhould ſpill his blood, and ſo pour it out that it ſhould never be gathered
+<pb n="20" facs="tcp:45602:13"/>
+up again. But bleſſed be God, who then defen<g ref="char:EOLhyphen"/>ded him from evil, when the ſnares of death compaſſed him, and he walked in the ſhadow of it, who preſerved him in a ſtrange land, till he had healed the breaches which ſhook his own, till he had compoſed thoſe differences, which divided him from his people, and ſe<g ref="char:EOLhyphen"/>parated them among themſelves, till he had bowed all their hearts even as the heart of one man; ſo that they alſo ſent this word unto the King, <hi>Return thou and all thy ſervants.</hi> And bleſſed be God, that his goodneſs hath ſuperſeded the neceſſity of this exhortation, that you, who, if I may ſpeak as <hi>David</hi> doth of <hi>Judah,</hi> are his Bre<g ref="char:EOLhyphen"/>thren, his bones, and his fleſh; or as the men of <hi>Judah</hi> ſpeak of <hi>David,</hi> have this honour, that the King is near of kin unto you, would not be the laſt to bring back the King: among the forwardeſt I hope you have already ſhewed your ſelves, and there are many here, who have gone out to meet and to conduct the King: all therefore that remains for me to preſs upon you more, from this Text, is by way of application to addreſs my ſelf unto you, in a moſt ſerious and importunate ſupplication.</p>
+            <p>Firſt, That you would always remember, that you are as the Tribe of <hi>Judah,</hi> that you
+<pb n="21" facs="tcp:45602:13"/>
+ſtand in a like relation to your King, and as they to <hi>David</hi> are near unto him, upon which as often as you do reflect, you cannot but ſtill think your ſelves to be more and more engaged in all the ſervices of love and duty, and we al<g ref="char:EOLhyphen"/>ways ſhall, I hope, accordingly perform them, without murmuring or diſputing, not grudg<g ref="char:EOLhyphen"/>ingly as of neceſſity, but chearfully and readi<g ref="char:EOLhyphen"/>ly, as if indeed we thought, that whilſt we were zealous for his honour and welfare, we were officious for our ſelves, and did promote our own. This very conſideration it was, which did ſo far influence the men of <hi>Shechem,</hi> that they preferr'd a ſpurious iſſue, before the legi<g ref="char:EOLhyphen"/>timate off-ſpring; and paſſing by the threeſcore and ten ſons of <hi>Jerubbaal,</hi> any of which had a greater right and better title to the Crown, they choſe <hi>Abimelech</hi> to reign over them, that they might advance his throne, <hi>Judges</hi> ix. 4. did not ſtick to ſpoil the Temple of their God; and all this upon no other account or ground than this, that he was their brother, as they ſpeak, <hi>Judges</hi> ix. 3. or that he was their bone, and their fleſh, as he ſpeaks of himſelf in the ſecond verſe: all which amounts to no more, than that he was their Townſ-man, born in the ſame place with them: for we cannot imagin that he
+<pb n="22" facs="tcp:45602:14"/>
+could be more nearly related unto all the men of <hi>Shechem.</hi> Far be it from me to juſtifie the traiterous conſpiracy, nor would I have any man ſo far miſtake me, as to think that I be<g ref="char:EOLhyphen"/>lieve this, or a much greater conſideration, is a ſufficient motive to deſert the lawful heir, and ſide with an unjuſt pretender; but cer<g ref="char:EOLhyphen"/>tainly what did ſo far prevail with them in an unrighteous cauſe, ought much more in a good one to be of force, and make us more firmly adhere to a Prince who is ſo nearly related to us, whom however, were he not ſo, we could not without ſin and treachery forſake. If there<g ref="char:EOLhyphen"/>fore ever yet again (which God fore-fend) any ſon of <hi>Bichri</hi> ſhould ariſe, any Benjamite of <hi>Belial</hi> ſhould blow the trumpet of Sedition, diſclaim his part in <hi>David,</hi> and endeavour to perſwade others, that they have no inheritance in the King, let not in <hi>Judah</hi> there ever one be found who would go after him; let not any of us ever ſtir an hand, or move a tongue againſt the King; let not us lift up any offenſive wea<g ref="char:EOLhyphen"/>pon, no not that little one, which though little, yet as <hi>David</hi> himſelf can tell, <hi>Pſal.</hi> lii. 2. is ſharp as any raſor, and makes wounds ſo deep, that they go into the innermoſt parts of the belly. But remembring who we are, and what he is
+<pb n="23" facs="tcp:45602:14"/>
+to us, let us demean our ſelves ſuitably to our obligations, employ every member in his ſer<g ref="char:EOLhyphen"/>vice, aſſiſt him with our heads, pray for him with our tongues and hearts, and after all, act mightily for him with our arms. And all this that as it is fit for <hi>Judah,</hi> as it well becometh us, we may to purpoſe do;</p>
+            <p>Let us in the ſecond place take care, that as <hi>Judah</hi> was ſo we continue, having all our hearts bowed as the heart of one man: this it is that will beſt fit us for, and incline us to the forego<g ref="char:EOLhyphen"/>ing duties, preſerve us firm in our allegiance to the King, and enable us more effectually to do him ſervice. Whilſt men ſeparately and apart carry on their deſigns, though each of them be well intended, and all of them peradventure may have the ſame end and aim, yet do they ſeldom proſper; every man being ambitious that his own may ſucceed, and they mutually hindering and croſſing one another, whilſt the leſs likely to prevail, repines at the others pro<g ref="char:EOLhyphen"/>bability of ſucceſs, every one of them when be<g ref="char:EOLhyphen"/>hind, ſtill pulls him who appears formoſt back; and each of them envying unto another, the re<g ref="char:EOLhyphen"/>compence and honour of the thing, the whole of all their endeavours ends in an inglorious miſcarriage, and a too fatal diſappointment: but
+<pb n="24" facs="tcp:45602:15"/>
+when hand joyns in hand, and hearts too are united, we cannot then but mightily prevail: by this agreement, ſtrength and counſel meet together, policy and power do kiſs each other: and what is there that we may not expect from ſuch an aſſocration? And to this unity and con<g ref="char:EOLhyphen"/>cord, this amity and love, that very conſidera<g ref="char:EOLhyphen"/>tion, which from ſuch diſtant places, hath brought ſo many hither in this place to ſolem<g ref="char:EOLhyphen"/>nize this day, is a ſufficient, and will I hope, prove a very ſucceſsful obligation, that we were all born in this Pariſh, and had our firſt Education within the ſame precincts. To be of one and the ſame Nation, how ſtrongly doth it bind? what firm, and yet what eaſie friend<g ref="char:EOLhyphen"/>ſhips in Countries that are remote, doth this a<g ref="char:EOLhyphen"/>lone create between ſuch, as at home were ſtrangers, and upon no other accompt abroad have taken cognizance of one another? And if to have been of the ſame Nation only doth tye thus faſt together, to have had more neighbour<g ref="char:EOLhyphen"/>ing Nativities, to have been born in the ſame Shire or City, ought certainly to link more cloſely yet to one another: but to have been Natives of the ſame Pariſh, muſt draw yet ſtreighter much the knot, and joyn us in ſo faſt and near a friendſhip, as nothing ſhould excel
+<pb n="25" facs="tcp:45602:15"/>
+but Brothers love, who yet have had their births within a ſhorter compaſs, and came forth from one and the ſame womb. To theſe indeed we may yield, according to the rule their affecti<g ref="char:EOLhyphen"/>ons muſt be proportionably more vigorous and ſtrong, for they are brethren, and between ſuch no ſtrife ſhould be, none but for the maſtery in love, which of the two ſhould be moſt kind, and ſhew the greateſt tenderneſs to one an<g ref="char:EOLhyphen"/>other: But next to theſe are we, near was the reſemblance of our births, and as nearly as we can our lives ſhould repreſent them; at leaſt we ought to live like brethren, and as them to love, that which I hope ye all already do; and that ye never may do otherwiſe, but that the love ſowell begun on earth, may continue till it comes to be perfected in Heaven; where when Hope ſhall terminate in enjoyment, and Faith be ſwallowed up in viſion, the exerciſe of this ſhall ſtill remain. I ſhould now come in the laſt place to give you ſome directions for its main<g ref="char:EOLhyphen"/>tainance and preſervation; but you your ſelves have taken ſuch a courſe as juſtly ſuperſedes the neceſſity of any ſuch advice: and having ap<g ref="char:EOLhyphen"/>pointed this day for the holding of your annual Feaſt, you have prevented me of what I ſhould preſcribe. This very meeting to rejoyce and
+<pb n="26" facs="tcp:45602:16"/>
+feaſt together, to eat the fat, and drink the ſweet, as <hi>Nehemiah</hi> phraſeth it, <hi>ch.</hi> viii. <hi>v.</hi> 10. is of it ſelf apt to mollifie and ſoften the harſhneſs of our nature, and to create good humour in us: this will prepare and fit us to forgive offences, inſenſibly diſpoſeth us for reconciliation, and will in one day compoſe the differences of a year. This creates acquaintance where before was none, renews it where it was decayed, and ſo improves it by an annual increaſe, till at length it grow to perfect friendſhip, and be<g ref="char:EOLhyphen"/>come an union like that of ſoul and body, which there is nought but death can break in ſunder. Let then the diſſenting ſons of diſcord, (as we know they oft have done) faſt for ſtrife and debate, and Drunkards tarry at their wine, till that falſe fire which at their firſt meeting lookt like love, break forth before they part into a flame, and make them burn with an<g ref="char:EOLhyphen"/>ger, inſtead of being warm with love. Theſe are the two extremes which like thoſe of vir<g ref="char:EOLhyphen"/>tue we equally muſt flie; both of them will deſtroy the buſineſs of this day: the former is contradiction on a Feſtival, and the latter ruines what thereby we pretend our purpoſe to advance. Againſt the one I queſtion not, but the care of good and liberal Stewards moſt
+<pb n="27" facs="tcp:45602:16"/>
+amply hath provided; from the other I hope your own Virtue and Temperance will ſecure your ſelves: ſo ſhall there need no future ſor<g ref="char:EOLhyphen"/>row to expiate any madneſs or ſin in this days Joy, ſo may we hope to continue this inno<g ref="char:EOLhyphen"/>cent Society, this Feaſt of Love on Earth, till being made fellow-citizens with the Saints, we are called to the Supper of the Lamb in Hea<g ref="char:EOLhyphen"/>ven, where all theſe ways and needs of feaſt<g ref="char:EOLhyphen"/>ing happily ſhall ceaſe; and to love God and do his will, that ſhall be our meat and drink for ever.</p>
+            <closer>Now to God the Father, God the Son, and God the Holy Ghoſt, three Perſons, and but one Eternal God, be all Honour and Glory, now and for ever. <hi>Amen.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
